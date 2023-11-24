@@ -1,0 +1,46 @@
+[
+  {
+    "fileName": "Справочник‌ ‌организации‌",
+    "isFolder": true,
+    "files": [
+      {
+        "fileName": "Оргструктура‌",
+        "isFolder": false,
+        "files": [],
+        "documentId": -2
+      },
+      {
+        "fileName": "Все‌ ‌сотрудники‌",
+        "isFolder": false,
+        "files": [],
+        "documentId": -3
+      }
+    ],
+    "documentId": -1
+  },
+  {
+    "fileName": "Поручения‌",
+    "isFolder": true,
+    "files": [
+      {
+        "fileName": "Все‌ ‌поручения‌",
+        "isFolder": true,
+        "files": [],
+        "documentId": -4
+      },
+      {
+        "fileName": "Мои‌ ‌поручения‌‌",
+        "isFolder": true,
+        "files": [],
+        "documentId": -5
+      },
+      {
+        "fileName": "Поручения‌ ‌мне‌‌",
+        "isFolder": true,
+        "files": [],
+        "documentId": -6
+      }
+    ],
+    "documentId": -7
+  }
+]
